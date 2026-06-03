@@ -76,48 +76,6 @@ onlinebookstore/
 
 ---
 
-## 📸 Application Screenshots
-
-### 🔑 Login Screen
-
-<img width="700" alt="Login Screen" src="screenshots/login.png">
-
-**Features:**
-
-* Secure user authentication
-* User registration support
-* Admin and customer login access
-
----
-
-### 👨‍💼 Admin Dashboard
-
-<img width="700" alt="Admin Dashboard" src="screenshots/admin_dashboard.png">
-
-**Features:**
-
-* User Management
-* Inventory Management
-* Category Management
-* Order Monitoring
-* Report Generation
-
----
-
-### 👤 User Dashboard
-
-<img width="700" alt="User Dashboard" src="screenshots/user_dashboard.png">
-
-**Features:**
-
-* Search books
-* Add books to cart
-* Wishlist management
-* Order management
-* Profile management
-
----
-
 ## 🎯 OOP Concepts Implemented
 
 * Encapsulation
